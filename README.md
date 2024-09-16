@@ -1,8 +1,8 @@
 # TR-OU
 ## Tensor Ring Rank Determination Using an Odd-dimensional Unfolding Method
 Usage:
-* demo_Syn_data for the simulations on synthetic data 
-* demo_real_data for the simulations on real_worl data
+* run ``demo_Syn_data'' for the simulations on synthetic data 
+* run ``demo_real_data'' for the simulations on real_worl data
 * main_algs
   * rankEst_odd
   * SVT
